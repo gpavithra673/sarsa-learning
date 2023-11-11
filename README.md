@@ -94,20 +94,19 @@ def sarsa(env,
 ## OUTPUT:
 
 ### Optimal Policy:
-![image](https://github.com/Aashima02/sarsa-learning/assets/93427086/1f4fdf5c-6142-4194-b408-040fa4fa5716)
+![Screenshot 2023-11-11 184903](https://github.com/gpavithra673/sarsa-learning/assets/93427264/9c9c9678-3575-4737-b9cc-0c3ef9311789)
 
 ### First Visit Monte Carlo Method:
-![image](https://github.com/Aashima02/sarsa-learning/assets/93427086/640e34aa-2f12-4e0d-855d-14a9adc98e8a)
+![Screenshot 2023-11-11 184925](https://github.com/gpavithra673/sarsa-learning/assets/93427264/caa76f65-3666-4b5a-b5b6-135a1439ec2e)
 
 ### SARSA Learning Algorithm:
-![image](https://github.com/Aashima02/sarsa-learning/assets/93427086/42a7d093-dd4f-4ba7-b426-3c6d884bf2db)
+![Screenshot 2023-11-11 184949](https://github.com/gpavithra673/sarsa-learning/assets/93427264/4c03d2ec-dfd1-436d-a2af-a46698276eb5)
 
 ### Plot for State Value Function - Monte Carlo:
-![image](https://github.com/Aashima02/sarsa-learning/assets/93427086/1aae6455-9beb-4974-8661-783dd4958ce5)
+![image](https://github.com/gpavithra673/sarsa-learning/assets/93427264/f2a0527f-6b39-43da-978c-38c6acf10a9f)
 
 ### Plot for State Value Function - SARSA Learning:
-![image](https://github.com/Aashima02/sarsa-learning/assets/93427086/3252d7ed-c2a3-480d-9a5c-2e7412a59a5f)
-
+![image](https://github.com/gpavithra673/sarsa-learning/assets/93427264/e3acdbc3-4f49-47f3-89ac-18480e3fc257)
 
 ## RESULT:
 
